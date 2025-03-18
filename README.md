@@ -13,7 +13,7 @@ Responsive design.
 
 Technologies Used :
 
-HTML,CSS,JavaScript,Bootstrap.
+HTML, CSS, JavaScript, Bootstrap.
 
 How to Use :
 
