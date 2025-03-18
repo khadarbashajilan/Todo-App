@@ -6,10 +6,10 @@ This is a simple Todo App built using HTML, CSS, and JavaScript. It allows users
 
 Features :
 
-Add new tasks, 
-Mark tasks as completed, 
-Delete tasks, 
-Responsive design
+Add new tasks,  
+Mark tasks as completed,  
+Delete tasks,  
+Responsive design.
 
 Technologies Used :
 
